@@ -36,6 +36,8 @@
 //? export default ile payalşıldığı için süslü parantezsi ve herhangi bir isimle import edilebildi.
 import displayCoins from "./displayCoins"
 import axios from "axios"
+// import Swal from 'sweetalert2'
+
 
 //? named export
 export const getCoins = async (keyword) => {

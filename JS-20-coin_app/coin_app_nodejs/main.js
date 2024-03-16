@@ -2,6 +2,7 @@
 import "./scss/style.scss"
 import { getCoins } from "./src/getCoins"
 
+
 //? Selectors
 
 const form = document.querySelector("header form")
