@@ -1,6 +1,8 @@
 
 import "./scss/style.scss"
+
 import { getCoins } from "./src/getCoins" 
+
 // ?selectors
 const form = document.querySelector("header form")
 // console.log(form);
